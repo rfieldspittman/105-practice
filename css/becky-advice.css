@@ -1,0 +1,32 @@
+.becky-advice {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+header {
+    text-align: center;
+}
+
+.advice {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: darkslateblue;
+    background-color: lightgray;
+}
+
+h1 {
+    background-color: #ddd;
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition: 0.3s;
+  }
+  
+h1:hover {
+    background-color: #3e8e41;
+    color: white;
+    font-size: 24px;
+  }
